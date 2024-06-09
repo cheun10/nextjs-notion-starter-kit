@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '신채은 이력',
+  name: '신채은 이력서',
   domain: 'chaeeun.vercel.app',
   author: '신채은',
 
